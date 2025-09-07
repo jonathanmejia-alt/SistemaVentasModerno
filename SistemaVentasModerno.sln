@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution>
+  <Project>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Name>SistemaVentasModerno</Name>
+    <Path>.\SistemaVentasModerno\SistemaVentasModerno.csproj</Path>
+  </Project>
+</Solution>
